@@ -1,0 +1,25 @@
+{
+  "messages" : {
+    "CHOOSING":"MACHINE IS CHOOSING...",
+    "SELECTED_PAPER":"MACHINE SELECTED PAPER",
+    "SELECTED_ROCK":"MACHINE SELECTED ROCK",
+    "SELECTED_PAPER":"MACHINE SELECTED SCISSORS",
+    "PLAYER_WIN":"YOU WIN",
+    "PLAYER_LOOSE":"YOU LOOSE",
+    "IT_WAS_ATIE":"IT WAS A TIE"
+    },
+  "labels" : {
+    "buttonLabel" : "PLAY AGAIN",
+    "score" : "SCORE:"
+  },
+  "Possibities" : {
+    "WIN": "player",
+    "LOOSE" : "machine",
+    "TIED": "tied"
+  },
+  "Options" : {
+    "PAPER": "paper",
+    "ROCK" : "rock",
+    "SCISSORS": "scissors"
+  }
+}
